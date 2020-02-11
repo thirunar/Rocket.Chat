@@ -1,8 +1,8 @@
 {
-  "name": "Rocket.Chat",
+  "name": "School App",
   "description": "Have your own open-source Slack-like online chat platform.",
   "repository": "https://github.com/RocketChat/Rocket.Chat",
-  "logo": "https://raw.githubusercontent.com/RocketChat/Rocket.Chat/master/public/images/logo/1024x1024.png",
+  "logo": "http://getdrawings.com/downloadpage/free-icon/icon-z-60.png/3733398",
   "keywords": ["meteor", "social", "community", "chat"],
   "website": "https://rocket.chat",
   "env": {
